@@ -1,0 +1,12 @@
+# Ignore virtual environment
+/venv/
+
+# Ignore model checkpoints
+/models/
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore data (if the dataset is large)
+data/
